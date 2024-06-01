@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Header from './components/header/header';
 import Carousel from './components/carousel/carousel';
-// import Footer from './components/footer/footer';
 import Footer from './components/footer/footer'
 import './App.css';
 
